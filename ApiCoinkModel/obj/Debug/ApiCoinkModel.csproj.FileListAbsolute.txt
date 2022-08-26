@@ -1,0 +1,6 @@
+C:\Users\AnthonyParra\Desktop\ApiCoinkModel\bin\Debug\ApiCoinkModel.dll
+C:\Users\AnthonyParra\Desktop\ApiCoinkModel\bin\Debug\ApiCoinkModel.pdb
+C:\Users\AnthonyParra\Desktop\ApiCoinkModel\obj\Debug\ApiCoinkModel.csprojAssemblyReference.cache
+C:\Users\AnthonyParra\Desktop\ApiCoinkModel\obj\Debug\ApiCoinkModel.csproj.CoreCompileInputs.cache
+C:\Users\AnthonyParra\Desktop\ApiCoinkModel\obj\Debug\ApiCoinkModel.dll
+C:\Users\AnthonyParra\Desktop\ApiCoinkModel\obj\Debug\ApiCoinkModel.pdb
