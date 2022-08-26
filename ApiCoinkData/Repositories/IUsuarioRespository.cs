@@ -9,7 +9,7 @@ namespace ApiCoinkData.Repositories
 {
     public interface IUsuarioRespository
     {
-        Task<IEnumerable<VmUsuario>> GetUsuarios();
+        Task<IEnumerable<VmUsuario>> GetUsuarios(); //Espacios
         Task<Usuario> GetDetalleUsuarios();
         Task<string> InsertUsuario(Usuario user);
         Task<string> InsertStoredProcedureUsuario(Usuario user);
